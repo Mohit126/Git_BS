@@ -1,6 +1,6 @@
 # Git_BS
  
-how to run the code 
+#how to run the code 
 steps
 1.dhownload the code (zip format)
 2.extract the zip folder
