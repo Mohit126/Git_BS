@@ -241,11 +241,11 @@
                 </div>
                 <div class="col-lg-3">
                     <i class="fa fa-phone fa-3x sr-contact"></i>
-                    <p>Krish-98191689xx</p>
+                    <p>Mohit-xxxxxxxxxx</p>
                 </div>
                 <div class="col-lg-3">
                     <i class="fa fa-phone fa-3x sr-contact"></i>
-                    <p>Priyesh-97571045xx</p>
+                    <p>Rugved-xxxxxxxxxx</p>
                 </div>
                 <div class="col-lg-3">
                     <i class="fa fa-phone fa-3x sr-contact"></i>
@@ -254,7 +254,7 @@
 
                 <div class="col-lg-3 text-center">
                     <i class="fa fa-envelope-o fa-3x sr-contact"></i>
-                    <p><a href="mailto:your-email@your-domain.com">safal.priyesh@gmail.com</a></p>
+                    <p><a href="mailto:your-email@your-domain.com">JeetGore2@gmail.com</a></p>
                 </div>
             </div>
         </div>
