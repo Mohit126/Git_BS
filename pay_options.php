@@ -33,7 +33,7 @@ session_start();
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
-            </button>
+    		</button>
                 <a class="navbar-brand" href="#">The Story Shop</a>
 
             </div>
@@ -127,9 +127,14 @@ session_start();
         }
     }
         ?>
-        
-    <div class="container" align="right" ><h3> <a id="rzp-button1" style="text-decoration:none" href="checkout1.php">checkout</a></h3>
-          </div>
+<div align="center">
+	    <form name="payment" method="post">
+	    <input type="radio" name="paymethod" value="COD" checked="checked"> COD</br>
+	     <input type="radio" name="paymethod" value="Internet Banking"> Internet Banking</br>
+	     <input type="radio" name="paymethod" value="Debit / Credit card"> Debit / Credit card <br /><br />
+	     <input type="submit" value="submit" name="submit" class="btn btn-primary">
+	    </form>		
+		</div>
 </body>
 
 <!--   Core JS Files   -->
@@ -145,6 +150,5 @@ session_start();
 
 <!-- Control Center for Material Kit: activating the ripples, parallax effects, scripts from the example pages etc -->
 <script src="assets/js/material-kit.js" type="text/javascript"></script>
-
 
 </html>
